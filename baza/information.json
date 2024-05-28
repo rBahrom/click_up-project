@@ -1,0 +1,57 @@
+{
+      "Users": [
+            {
+                  "first name": "John",
+                  "last name": "Smith",
+                  "passport_id": "AS 4567898",
+                  "birth day": "1995.10.25",
+                  "phone number": "66",
+                  "create date": "2024-04-25 23:07:24.914213",
+                  "cashback_card": "9458 3814 4614 1197",
+                  "cashback": 50000.0,
+                  "click_pin": 77777,
+                  "card": {
+                        "Card name": "Humo",
+                        "Card": "9860 0104 1112 8986",
+                        "Card date": "01.26",
+                        "money": 1500000.0
+                  }
+            },
+            {
+                  "first name": "Kamron",
+                  "last name": "Rashidov",
+                  "hudud": "samarkand",
+                  "passport_id": "AC 6522332",
+                  "birth day": "2005.09.25",
+                  "phone number": "55",
+                  "create date": "2024-04-24 22:45:56.597831",
+                  "cashback_card": "6741 3749 4085 6628",
+                  "cashback": 10000.0,
+                  "click_pin": 44444,
+                  "card": {
+                        "Card name": "visa",
+                        "Card": "4600 0012 1212 4645",
+                        "Card date": "01.30",
+                        "money": 581000.0
+                  }
+            },
+            {
+                  "first name": "Bahrom",
+                  "last name": "Rashidov",
+                  "hudud": "samarkand",
+                  "passport_id": "AB 6246060",
+                  "birth day": "2000.05.27",
+                  "phone number": "99",
+                  "create date": "2024-04-24 22:40:38.577193",
+                  "cashback_card": "6192 2021 9593 5813",
+                  "cashback": 40000.0,
+                  "click_pin": 33333,
+                  "card": {
+                        "Card name": "UzCard",
+                        "Card": "8600 0417 0008 4933",
+                        "Card date": "01.26",
+                        "money": 1011000.0
+                  }
+            }
+      ]
+}
